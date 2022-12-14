@@ -1,2 +1,0 @@
-# Language-Cards
-React Project 
