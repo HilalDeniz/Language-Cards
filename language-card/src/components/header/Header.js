@@ -1,4 +1,4 @@
-import reactLogo from "../../assets/react.webp";
+import reactLogo from "../../assets/reactt.png";
 import "./Header.css"
 
 const Header = () => {
